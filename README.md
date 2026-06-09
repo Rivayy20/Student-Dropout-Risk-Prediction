@@ -1,4 +1,4 @@
-# :material/school: Prediksi Kinerja & Risiko Dropout Mahasiswa
+# 🎓 Prediksi Kinerja & Risiko Dropout Mahasiswa
 
 > **Sistem Peringatan Dini Berbasis Machine Learning untuk Risiko Dropout Mahasiswa**
 
@@ -38,10 +38,10 @@ Sebuah aplikasi web interaktif yang dibangun menggunakan **Streamlit** untuk mem
 
 | Fitur | Deskripsi |
 |---------|-------------|
-| :material/home: **Beranda** | Gambaran umum proyek, metrik utama, dan wawasan (insight) kunci dari dataset. |
-| :material/bar_chart: **Dashboard EDA** | Visualisasi interaktif menggunakan Plotly dengan filter kategorikal (Semua, Akademik, Finansial, Beasiswa, Demografi). |
-| :material/online_prediction: **Prediksi Risiko** | Sistem inferensi *machine learning* dengan antarmuka yang dikelompokkan secara rapi. Memberikan label risiko (Rendah/Sedang/Tinggi), distribusi probabilitas, faktor dominan penyebab, dan rekomendasi tindakan konkrit. |
-| :material/info: **Tentang Proyek** | Perbandingan performa model ML dan alasan spesifik mengapa Logistic Regression dipilih sebagai algoritma utama. |
+| 🏠 **Beranda** | Gambaran umum proyek, metrik utama, dan wawasan (insight) kunci dari dataset. |
+| 📊 **Dashboard EDA** | Visualisasi interaktif menggunakan Plotly dengan filter kategorikal (Semua, Akademik, Finansial, Beasiswa, Demografi). |
+| 🔍 **Prediksi Risiko** | Sistem inferensi *machine learning* dengan antarmuka yang dikelompokkan secara rapi. Memberikan label risiko (Rendah/Sedang/Tinggi), distribusi probabilitas, faktor dominan penyebab, dan rekomendasi tindakan konkrit. |
+| ℹ️ **Tentang Proyek** | Perbandingan performa model ML dan alasan spesifik mengapa Logistic Regression dipilih sebagai algoritma utama. |
 
 ---
 
